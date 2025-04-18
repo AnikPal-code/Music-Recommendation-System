@@ -17,11 +17,11 @@ A **Music Recommendation System** that suggests songs to users based on their pr
 - Pandas
 - Scikit-learn
 - Numpy
-- TensorFlow (if used for advanced recommendation techniques)
+- TensorFlow 
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.10.0
 - Streamlit
 - Pandas
 - Numpy
